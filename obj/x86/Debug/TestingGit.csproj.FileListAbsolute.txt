@@ -1,0 +1,5 @@
+c:\users\lreyes\documents\visual studio 2010\Projects\TestingGit\TestingGit\bin\Debug\TestingGit.exe
+c:\users\lreyes\documents\visual studio 2010\Projects\TestingGit\TestingGit\bin\Debug\TestingGit.pdb
+c:\users\lreyes\documents\visual studio 2010\Projects\TestingGit\TestingGit\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lreyes\documents\visual studio 2010\Projects\TestingGit\TestingGit\obj\x86\Debug\TestingGit.exe
+c:\users\lreyes\documents\visual studio 2010\Projects\TestingGit\TestingGit\obj\x86\Debug\TestingGit.pdb
